@@ -6,10 +6,28 @@
 
 ## Description
 > [!IMPORTANT]
-> This project is under very "early-stade"
+> This project is under very "early-stade", any code line not writed now.
 
+An easy open source Python3-writed web-hosted docs.
+With full boostrap support and many "out of box" feautures.
 
-A open source web-hosted docs.
+## Demo
+-
 
-## How to use
-> Paste here "how to use" after project is ready
+## Docs
+-
+
+## Instalation
+Distro support:
+
+| Distro | Version   | Support | Package manager | Type                          |
+|--------|-----------|---------|-----------------|-------------------------------|
+| Debian | 13+       | 100%    | apt             | Server and desktop. Stability.|       
+| Ubuntu | last LTS  | 99%     | apt             | Server and desktop. Stability and more new.|   
+| Fedora | 42+       | 80%     | dnf             | Server (Fedora Server) and desktop (Fedora Workstation or KDE Plasma Desktop). New functions, medium stability. |
+| Arch   | latest    | 65%     | pacman          | Server (in the abstract) and desktop. Super rolling distribution, bad stability. Better for desktop, not for servers. |
+| Other  | ?         | 0%      | ?               | If you want you can install any distribution, if it can run Python and Web Server. |
+
+## Author
+Contribute project :)
+Give me you mail at elegant76S@proton.me
